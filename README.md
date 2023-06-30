@@ -8,6 +8,13 @@ Ejecutar el siguiente comando
 npm install
 ```
 
+## Framework utilizado
+
+Se realiza el proyecto con el framework de Vue3 ya que permite renderizar elementos html de una manera bastante facil por medio del uso de 
+componentes, en este caso facilita la visualización de los datos que se insertan el tabla html.
+
+Por otra parte el framework trabaja con javascript, lenguaje bastante comodo para trabajar lo que facilita la codificación.
+
 ## Modulos extra que utiliza el aplicativo
 
 ### Sweetalert 
@@ -35,6 +42,8 @@ Ejecutar el siguiente comando
 ```
 npm run serve
 ```
+
+De ser posible correr el servidor backend en el mismo host para facilitar la conexión entre las aplicaciones
 
 
 
