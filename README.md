@@ -2,6 +2,8 @@
 
 ## Instalacion de modulos de desarrollo
 
+Ejecutar el siguiente comando
+
 ```
 npm install
 ```
@@ -13,9 +15,6 @@ El aplicativo hace uso del modulo sweetalert para proporcionar ventanas modales 
 
 ### Axios
 Proporciona funciones que permiten realizar llamados a API's de manera más comoda
-
-
-
 
 ##  Configuración conexion al backend
 
@@ -30,6 +29,8 @@ const asistentesApi  =axios.create({
 ```
 
 ## Compilar y corre la aplicacion
+
+Ejecutar el siguiente comando
 
 ```
 npm run serve
