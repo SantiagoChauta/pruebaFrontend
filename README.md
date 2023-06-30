@@ -1,4 +1,3 @@
-# pruebagearelectricfrontend-santiagochauta
 
 ## Instalacion de modulos de desarrollo
 
