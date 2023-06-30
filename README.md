@@ -6,6 +6,17 @@
 npm install
 ```
 
+## Modulos extra que utiliza el aplicativo
+
+### Sweetalert 
+El aplicativo hace uso del modulo sweetalert para proporcionar ventanas modales con mejor estetica faciles de configurar
+
+### Axios
+Proporciona funciones que permiten realizar llamados a API's de manera más comoda
+
+
+
+
 ##  Configuración conexion al backend
 
 En el archivo ``` src/helpers/AsistentesApi.js ``` encontrara el siguiente fragmento de codigo, el cual
