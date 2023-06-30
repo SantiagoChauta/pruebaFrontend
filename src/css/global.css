@@ -1,7 +1,13 @@
 
+
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
+
+
 html{
     font-size: 62.5%;
     box-sizing: border-box;
+    width: 100%;
+    height: 100%;
 }
 
 *, *::before, *::after{
@@ -11,7 +17,6 @@ html{
 body{
     font-size: 1.6rem;
     line-height: 1.8;
-    background-color: #1795e8;
 }
 
 [class$='__container'] {
@@ -20,3 +25,7 @@ body{
     width: 90%;
 }
 
+@font-face {
+    font-family: "Maghody";
+    src: url("../assets/Maghody.ttf");
+  }
