@@ -43,7 +43,7 @@ Ejecutar el siguiente comando
 npm run serve
 ```
 
-De ser posible correr el servidor backend en el mismo host para facilitar la conexión entre las aplicaciones
+De ser posible correr en el mismo host que el servidor backend para facilitar la conexión entre las aplicaciones
 
 
 
